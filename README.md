@@ -1,29 +1,10 @@
 ## Speech-Emotion-Recognition-SoC
-## Week 4
+## Week 5 & 6
 
-Hola Amigos,Knock Knock it's me... week 4, we will learn about audio preprocessing in this week.
+Bonjour les amis, Now it's time for the project, all the resources and dataset links are available in the project.ipynb file itself. You guys have to use the ML knowledge you have gained in the past month.
 
-#TASK 
-
- You have to complete an assignment that uses Librosa to preprocess data.
- 
-
- ## Why do we audio preprocessing ?
-Audio preprocessing is essential for improving the quality and consistency of audio data, which enhances the performance of machine learning models. Key steps include noise reduction to remove unwanted sounds, normalization to standardize audio levels, and segmentation to break audio into manageable chunks. Feature extraction, such as obtaining MFCCs, transforms raw audio into meaningful representations. These steps help reduce overfitting, improve computational efficiency, and ensure that the models focus on relevant audio features, leading to better accuracy and reliability in tasks like speech and music recognition.
-
-## Some terms to know
-Sampling Rate: Number of audio samples per second; higher rates capture more detail.
-
-Amplitude: Loudness of the audio signal; higher amplitude means louder sound.
-
-Frequency: Number of wave cycles per second; determines pitch.
-
-Waveforms: Show amplitude variations over time.
-
-Spectrograms: Display frequency content over time, useful for detailed audio analysis.
-
-## Librosa
-We are going to use Librosa for audio preprocessing
-
--[Documentation](https://librosa.org/doc/latest/index.html)
--[Video Tutorial](https://youtu.be/MhOdbtPhbLU?si=jgJOd2vQDj8f7Rdt)
+## Week 7 & 8
+These two weeks are a fun activity for you guys, where you will make your own tictactoe AI bot. It will also give you an introduction to AI and Game theory.
+You have to go through the study material AI.pdf and the question is given in Tictactoe_Ques.pdf. You have to modify only the q1.py file and execute 7 functions
+(is_win(self), is_draw(self), get_valid_actions(self), is_terminal_history(self), get_utility_given_terminal_history(self), update_history(self, action), backward_induction(history_obj)) according to the comments given after their initialization.
+I hope you will really enjoy this activity and if you execute properly then you will see that your bot will never lose no matter what techniques you use.
