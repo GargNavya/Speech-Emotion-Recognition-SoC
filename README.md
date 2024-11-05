@@ -1,7 +1,5 @@
 ## Speech-Emotion-Recognition-SoC
-## Week 5 & 6
-
-Bonjour les amis, Now it's time for the project, all the resources and dataset links are available in the project.ipynb file itself. You guys have to use the ML knowledge you have gained in the past month.
+This is the project repository for Seasons of Code 2024 organised by the Web and Coding Club of IIT Bombay
 
 ## Week 7 & 8
 These two weeks are a fun activity for you guys, where you will make your own tictactoe AI bot. It will also give you an introduction to AI and Game theory.

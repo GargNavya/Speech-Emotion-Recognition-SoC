@@ -1,13 +1,12 @@
-## Speech-Emotion-Recognition-SoC
-#Week 1
+# <small>Speech-Emotion-Recognition-SoC</small><br>Week 1
 
-Hello my dear friends, lets begin our endeavors with the basics of python and essential libraries.
+This week begins with the basics of Python and its libraries:
 
-1.NumPy assignment: You will be given a series of tasks to complete in the NumPy_Assignment.py file. Each task will involve using Numpy functions to perform specific operations on the given data. Read the comments in the script for instructions on each task. 
+1. NumPy
 
-2.Matplotlib and pandas: You are given three exercises which will warmup you plotting skills.
+2. Matplotlib
 
-3.Question.py file, this is to test your basics and how you implement, what you have learnt.
+3. Pandas
 
 ## Week-1 Resources
 

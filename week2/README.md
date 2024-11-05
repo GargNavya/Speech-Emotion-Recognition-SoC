@@ -1,11 +1,6 @@
-## Speech-Emotion-Recognition-SoC
-## Week 2
+# <small>Speech-Emotion-Recognition-SoC</small><br>Week 2
 
-Hola Amigos, Let's start with our week2, where we will learn about regression and classification models.
-
-#TASK 
-
- You have to implement Logistic Regression and SVM classification model from scratch.
+In this week, we deal with Regression and Classification models
 
 ## What is the difference between regression and classfication?
 Regression helps predict a continuous quantity, classification predicts discrete class labels.
@@ -16,7 +11,7 @@ However, logistic regression is used in classification but still called as regre
 
 -[An Interesting Article](https://ashish-mehta.medium.com/why-is-logistic-regression-called-regression-if-it-is-a-classification-algorithm-9c2a166e7b74)
 
-Videos will be explaining the intuition and concept and articles will be focusing on python code of the regression and classification models.
+Videos explain the intuition and concept and articles focus on python code of the regression and classification models.
 
 ## Regression
 #Linear Regression
