@@ -1,6 +1,6 @@
 # <small>Speech-Emotion-Recognition-SoC</small><br>Week 4
 
-This week is all about audio preporcessing which we will be using 
+This week is all about audio preprocessing which we will be using to extract features from the audio dataset for our actual project
 
 ## Why do we audio preprocessing ?
 Audio preprocessing is essential for improving the quality and consistency of audio data, which enhances the performance of machine learning models. Key steps include noise reduction to remove unwanted sounds, normalization to standardize audio levels, and segmentation to break audio into manageable chunks. Feature extraction, such as obtaining MFCCs, transforms raw audio into meaningful representations. These steps help reduce overfitting, improve computational efficiency, and ensure that the models focus on relevant audio features, leading to better accuracy and reliability in tasks like speech and music recognition.
